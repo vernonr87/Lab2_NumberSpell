@@ -1,5 +1,10 @@
-// Will output the spelling of the digit number inputted.
-// Input : Two numbers (0 to 9) separated by a space.
+
+// Output: The spelling of each of the numbers from input.
+// Input: Two numbers (0 to 9) separated by a space.
+// Lab2_NumberSpell
+// CS 13011
+// Amrit Vernon Ramsundar
+// 11/25/17
 
 
 #include <iostream>
